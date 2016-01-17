@@ -21,6 +21,9 @@ There is a single model to can play with which you can access as `sails.models.f
 You can also use `sails.mongoose` to access the Mongoose object directly.  See https://github.com/mikermcneil/sails-hook-orm-mongoose for more information.
 
 
+> Note: in the future, this may be as easy as a one-line install.  In this case, we modified the `.sailsrc` file to disable the original ORM hook.
+
+
 ### License
 
 MIT
