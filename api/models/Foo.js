@@ -1,5 +1,11 @@
 module.exports = {
-
+  //
+  // Note that since the ORM hook is overridden, NONE OF THE DOCUMENTATION FOR
+  // MODELS/WATERLINE/CONNECTIONS/ADAPTERS/ETC is relevant!
+  //
+  // Please read the README file from https://github.com/mikermcneil/sails-hook-orm-mongoose
+  // in its entirety before using this example.
+  //
   schema: {
     title:  String,
     author: String,

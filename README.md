@@ -1,6 +1,8 @@
 # orm-hook-override-example
 
-a [Sails](http://sailsjs.org) application
+
+> #### IMPORTANT
+> Please read the README file from https://github.com/mikermcneil/sails-hook-orm-mongoose in its entirety before using this example.
 
 
 
